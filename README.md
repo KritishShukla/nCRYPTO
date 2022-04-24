@@ -10,7 +10,7 @@ Deployed Link of our WEBAPP = https://goofy-williams-112a51.netlify.app/
   - We then showed the candlestick patterns of all the coins using chart.js. <br/>
   - To help the users to keep in track with the cryto trading world, we displayed all the important news using suitable API.<br/>
   - Most importantly, to help the users get a glimpse of the future market trend, we have predited and analysed the market value of the coins in future.<br/> 
-  - Finally, we integrated all the components together and deployed our webapp.<br/>
+  - Finally, we integrated all the components together and deployed our webapp.<br/><br/>
  
   
   
