@@ -28,7 +28,8 @@ nCrypto is not just any trading platform that helps you to see crypto currency p
 
 5)We are in trials of launching our own bot which will notify our customers about the right time to buy or sell as soon as the login to our platform using google dialogue flow.
 
-
+## To Be Fixed: 
+Merging all the side features, and setting up a NFT platform.
  ## *4. Used*
  1. Python
  2. Javascript
