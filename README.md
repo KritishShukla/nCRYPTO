@@ -49,6 +49,7 @@ Merging all the side features, and setting up a NFT platform.
  Looking forward to make a system that notifies the user when suitable time comes for him to INVEST . A coupon based system for exchanging crypto currency with usable money .
  ## *7. Contributors ㊗️:*
   - Saptarshi Pani<br/>
+  - Adwaita Raj Modak<br/>
   - Sainik khaddar<br/>
   - Anurag Chakrabarty<br/>
   - Uttaran Nayak<br/>
